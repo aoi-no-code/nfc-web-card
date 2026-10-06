@@ -26,4 +26,8 @@ Settings → Pages → Deploy from a branch → main / docs → Save を選び�
 
 ## 確認状態
 
-サイトはローカルで制作済み。GitHubログイン・公開と、実物のNFCカードへの書き込みは未完了です。
+公開先: https://aoi-no-code.github.io/nfc-web-card/
+
+リポジトリ: https://github.com/aoi-no-code/nfc-web-card
+
+NFC Toolsでは「書く」→「レコードを追加」→「URL / URI」で上記の公開URLを登録し、「書く」からカードに書き込んでください。実物のNFCカードへの書き込みは未実施です。
